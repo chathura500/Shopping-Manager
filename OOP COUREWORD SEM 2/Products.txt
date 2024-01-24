@@ -1,0 +1,14 @@
+Product Id: C6638
+Product name: cc
+Number of available items: 4
+Product price: 4.0
+Size: 4
+Color: ccc
+
+Product Id: E6425
+Product name: cc
+Number of available items: 4
+Product price: 4.0
+Brand: 4
+Warranty period: 2
+

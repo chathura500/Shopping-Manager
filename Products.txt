@@ -1,0 +1,35 @@
+Product Id: C7114
+Product name: shirt
+Number of available items: 5
+Product price: 4.0
+Size: 5
+Color: blue
+
+Product Id: C9887
+Product name: trousers
+Number of available items: 5
+Product price: 5.0
+Size: 2
+Color: black
+
+Product Id: E5791
+Product name: tv
+Number of available items: 6
+Product price: 45.0
+Brand: singer
+Warranty period: 2
+
+Product Id: E7204
+Product name: filter
+Number of available items: 5
+Product price: 5.0
+Brand: singer
+Warranty period: 3
+
+Product Id: C6887
+Product name: blouse
+Number of available items: 7
+Product price: 5.0
+Size: 65
+Color: red
+
